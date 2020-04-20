@@ -1,0 +1,180 @@
+C:\Users\dorat\Desktop\block\eli.boyarski-mapf-be092f67837b\obj\Debug\CPF-experiment.csprojResolveAssemblyReference.cache
+C:\Users\dorat\Desktop\block\eli.boyarski-mapf-be092f67837b\obj\Debug\CPF_experiment.Properties.Resources.resources
+C:\Users\dorat\Desktop\block\eli.boyarski-mapf-be092f67837b\obj\Debug\CPF-experiment.csproj.GenerateResource.Cache
+C:\Users\dorat\Desktop\block\eli.boyarski-mapf-be092f67837b\bin\Debug\d0.exe.config
+C:\Users\dorat\Desktop\block\eli.boyarski-mapf-be092f67837b\bin\Debug\d0.xml
+C:\Users\dorat\Desktop\block\eli.boyarski-mapf-be092f67837b\bin\Debug\d0.exe
+C:\Users\dorat\Desktop\block\eli.boyarski-mapf-be092f67837b\bin\Debug\d0.pdb
+C:\Users\dorat\Desktop\block\eli.boyarski-mapf-be092f67837b\bin\Debug\MongoDB.Bson.dll
+C:\Users\dorat\Desktop\block\eli.boyarski-mapf-be092f67837b\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\dorat\Desktop\block\eli.boyarski-mapf-be092f67837b\bin\Debug\MongoDB.Driver.dll
+C:\Users\dorat\Desktop\block\eli.boyarski-mapf-be092f67837b\bin\Debug\MongoDB.Bson.xml
+C:\Users\dorat\Desktop\block\eli.boyarski-mapf-be092f67837b\bin\Debug\MongoDB.Driver.xml
+C:\Users\dorat\Desktop\block\eli.boyarski-mapf-be092f67837b\obj\Debug\d0.exe
+C:\Users\dorat\Desktop\block\eli.boyarski-mapf-be092f67837b\obj\Debug\d0.pdb
+C:\Users\Dor Atzmon\Desktop\block\eli.boyarski-mapf-be092f67837b\bin\Debug\d0.exe.config
+C:\Users\Dor Atzmon\Desktop\block\eli.boyarski-mapf-be092f67837b\bin\Debug\d0.xml
+C:\Users\Dor Atzmon\Desktop\block\eli.boyarski-mapf-be092f67837b\bin\Debug\d0.exe
+C:\Users\Dor Atzmon\Desktop\block\eli.boyarski-mapf-be092f67837b\bin\Debug\d0.pdb
+C:\Users\Dor Atzmon\Desktop\block\eli.boyarski-mapf-be092f67837b\bin\Debug\MongoDB.Bson.dll
+C:\Users\Dor Atzmon\Desktop\block\eli.boyarski-mapf-be092f67837b\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Dor Atzmon\Desktop\block\eli.boyarski-mapf-be092f67837b\bin\Debug\MongoDB.Driver.dll
+C:\Users\Dor Atzmon\Desktop\block\eli.boyarski-mapf-be092f67837b\bin\Debug\MongoDB.Bson.xml
+C:\Users\Dor Atzmon\Desktop\block\eli.boyarski-mapf-be092f67837b\bin\Debug\MongoDB.Driver.xml
+C:\Users\Dor Atzmon\Desktop\block\eli.boyarski-mapf-be092f67837b\obj\Debug\CPF-experiment.csprojResolveAssemblyReference.cache
+C:\Users\Dor Atzmon\Desktop\block\eli.boyarski-mapf-be092f67837b\obj\Debug\CPF_experiment.Properties.Resources.resources
+C:\Users\Dor Atzmon\Desktop\block\eli.boyarski-mapf-be092f67837b\obj\Debug\CPF-experiment.csproj.GenerateResource.Cache
+C:\Users\Dor Atzmon\Desktop\block\eli.boyarski-mapf-be092f67837b\obj\Debug\d0.exe
+C:\Users\Dor Atzmon\Desktop\block\eli.boyarski-mapf-be092f67837b\obj\Debug\d0.pdb
+C:\Users\Dor Atzmon\Desktop\block\eli.boyarski-mapf-be092f67837b\MAPF\bin\Debug\d0.exe.config
+C:\Users\Dor Atzmon\Desktop\block\eli.boyarski-mapf-be092f67837b\MAPF\bin\Debug\d0.xml
+C:\Users\Dor Atzmon\Desktop\block\eli.boyarski-mapf-be092f67837b\MAPF\bin\Debug\d0.exe
+C:\Users\Dor Atzmon\Desktop\block\eli.boyarski-mapf-be092f67837b\MAPF\bin\Debug\d0.pdb
+C:\Users\Dor Atzmon\Desktop\block\eli.boyarski-mapf-be092f67837b\MAPF\bin\Debug\MongoDB.Bson.dll
+C:\Users\Dor Atzmon\Desktop\block\eli.boyarski-mapf-be092f67837b\MAPF\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Dor Atzmon\Desktop\block\eli.boyarski-mapf-be092f67837b\MAPF\bin\Debug\MongoDB.Driver.dll
+C:\Users\Dor Atzmon\Desktop\block\eli.boyarski-mapf-be092f67837b\MAPF\bin\Debug\MongoDB.Bson.xml
+C:\Users\Dor Atzmon\Desktop\block\eli.boyarski-mapf-be092f67837b\MAPF\bin\Debug\MongoDB.Driver.xml
+C:\Users\Dor Atzmon\Desktop\block\eli.boyarski-mapf-be092f67837b\MAPF\obj\Debug\CPF-experiment.csprojResolveAssemblyReference.cache
+C:\Users\Dor Atzmon\Desktop\block\eli.boyarski-mapf-be092f67837b\MAPF\obj\Debug\CPF_experiment.Properties.Resources.resources
+C:\Users\Dor Atzmon\Desktop\block\eli.boyarski-mapf-be092f67837b\MAPF\obj\Debug\CPF-experiment.csproj.GenerateResource.Cache
+C:\Users\Dor Atzmon\Desktop\block\eli.boyarski-mapf-be092f67837b\MAPF\obj\Debug\d0.exe
+C:\Users\Dor Atzmon\Desktop\block\eli.boyarski-mapf-be092f67837b\MAPF\obj\Debug\d0.pdb
+C:\Users\dorat\Documents\GitHub\MAPF\bin\Debug\d0.exe.config
+C:\Users\dorat\Documents\GitHub\MAPF\bin\Debug\d0.xml
+C:\Users\dorat\Documents\GitHub\MAPF\bin\Debug\d0.exe
+C:\Users\dorat\Documents\GitHub\MAPF\bin\Debug\d0.pdb
+C:\Users\dorat\Documents\GitHub\MAPF\bin\Debug\MongoDB.Bson.dll
+C:\Users\dorat\Documents\GitHub\MAPF\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\dorat\Documents\GitHub\MAPF\bin\Debug\MongoDB.Driver.dll
+C:\Users\dorat\Documents\GitHub\MAPF\bin\Debug\MongoDB.Bson.xml
+C:\Users\dorat\Documents\GitHub\MAPF\bin\Debug\MongoDB.Driver.xml
+C:\Users\dorat\Documents\GitHub\MAPF\obj\Debug\CPF-experiment.csprojResolveAssemblyReference.cache
+C:\Users\dorat\Documents\GitHub\MAPF\obj\Debug\CPF_experiment.Properties.Resources.resources
+C:\Users\dorat\Documents\GitHub\MAPF\obj\Debug\CPF-experiment.csproj.GenerateResource.Cache
+C:\Users\dorat\Documents\GitHub\MAPF\obj\Debug\d0.exe
+C:\Users\dorat\Documents\GitHub\MAPF\obj\Debug\d0.pdb
+C:\Users\USER\Documents\GitHub\pRobust\bin\Debug\d0.exe.config
+C:\Users\USER\Documents\GitHub\pRobust\bin\Debug\d0.xml
+C:\Users\USER\Documents\GitHub\pRobust\bin\Debug\d0.exe
+C:\Users\USER\Documents\GitHub\pRobust\bin\Debug\d0.pdb
+C:\Users\USER\Documents\GitHub\pRobust\bin\Debug\MongoDB.Bson.dll
+C:\Users\USER\Documents\GitHub\pRobust\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\USER\Documents\GitHub\pRobust\bin\Debug\MongoDB.Driver.dll
+C:\Users\USER\Documents\GitHub\pRobust\bin\Debug\MongoDB.Bson.xml
+C:\Users\USER\Documents\GitHub\pRobust\bin\Debug\MongoDB.Driver.xml
+C:\Users\USER\Documents\GitHub\pRobust\obj\Debug\CPF_experiment.Properties.Resources.resources
+C:\Users\USER\Documents\GitHub\pRobust\obj\Debug\CPF-experiment.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\GitHub\pRobust\obj\Debug\CPF-experiment.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\pRobust\obj\Debug\d0.exe
+C:\Users\USER\Documents\GitHub\pRobust\obj\Debug\d0.pdb
+C:\Users\USER\Documents\GitHub\pRobust\bin\Debug\Accord.dll.config
+C:\Users\USER\Documents\GitHub\pRobust\bin\Debug\Accord.dll
+C:\Users\USER\Documents\GitHub\pRobust\bin\Debug\Accord.Math.Core.dll
+C:\Users\USER\Documents\GitHub\pRobust\bin\Debug\Accord.Math.dll
+C:\Users\USER\Documents\GitHub\pRobust\bin\Debug\Accord.Statistics.dll
+C:\Users\USER\Documents\GitHub\pRobust\bin\Debug\Accord.xml
+C:\Users\USER\Documents\GitHub\pRobust\bin\Debug\Accord.Math.xml
+C:\Users\USER\Documents\GitHub\pRobust\bin\Debug\Accord.Math.Core.xml
+C:\Users\USER\Documents\GitHub\pRobust\bin\Debug\Accord.Statistics.xml
+C:\Users\USER\Documents\GitHub\pRobust\obj\Debug\CPF-experiment.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\GitHub\pRobust - Copy\bin\Debug\Accord.dll.config
+C:\Users\USER\Documents\GitHub\pRobust - Copy\bin\Debug\d0.exe.config
+C:\Users\USER\Documents\GitHub\pRobust - Copy\bin\Debug\d0.xml
+C:\Users\USER\Documents\GitHub\pRobust - Copy\bin\Debug\d0.exe
+C:\Users\USER\Documents\GitHub\pRobust - Copy\bin\Debug\d0.pdb
+C:\Users\USER\Documents\GitHub\pRobust - Copy\bin\Debug\Accord.dll
+C:\Users\USER\Documents\GitHub\pRobust - Copy\bin\Debug\Accord.Math.Core.dll
+C:\Users\USER\Documents\GitHub\pRobust - Copy\bin\Debug\Accord.Math.dll
+C:\Users\USER\Documents\GitHub\pRobust - Copy\bin\Debug\Accord.Statistics.dll
+C:\Users\USER\Documents\GitHub\pRobust - Copy\bin\Debug\MongoDB.Bson.dll
+C:\Users\USER\Documents\GitHub\pRobust - Copy\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\USER\Documents\GitHub\pRobust - Copy\bin\Debug\MongoDB.Driver.dll
+C:\Users\USER\Documents\GitHub\pRobust - Copy\bin\Debug\Accord.xml
+C:\Users\USER\Documents\GitHub\pRobust - Copy\bin\Debug\Accord.Math.xml
+C:\Users\USER\Documents\GitHub\pRobust - Copy\bin\Debug\Accord.Math.Core.xml
+C:\Users\USER\Documents\GitHub\pRobust - Copy\bin\Debug\Accord.Statistics.xml
+C:\Users\USER\Documents\GitHub\pRobust - Copy\bin\Debug\MongoDB.Bson.xml
+C:\Users\USER\Documents\GitHub\pRobust - Copy\bin\Debug\MongoDB.Driver.xml
+C:\Users\USER\Documents\GitHub\pRobust - Copy\obj\Debug\CPF-experiment.csprojAssemblyReference.cache
+C:\Users\USER\Documents\GitHub\pRobust - Copy\obj\Debug\CPF_experiment.Properties.Resources.resources
+C:\Users\USER\Documents\GitHub\pRobust - Copy\obj\Debug\CPF-experiment.csproj.GenerateResource.cache
+C:\Users\USER\Documents\GitHub\pRobust - Copy\obj\Debug\CPF-experiment.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\pRobust - Copy\obj\Debug\CPF-experiment.csproj.CopyComplete
+C:\Users\USER\Documents\GitHub\pRobust - Copy\obj\Debug\d0.exe
+C:\Users\USER\Documents\GitHub\pRobust - Copy\obj\Debug\d0.pdb
+C:\Users\dorat\Documents\GitHub\pRobust\pRobust - Copy\bin\Debug\Accord.dll.config
+C:\Users\dorat\Documents\GitHub\pRobust\pRobust - Copy\bin\Debug\d0.exe.config
+C:\Users\dorat\Documents\GitHub\pRobust\pRobust - Copy\bin\Debug\d0.xml
+C:\Users\dorat\Documents\GitHub\pRobust\pRobust - Copy\bin\Debug\d0.exe
+C:\Users\dorat\Documents\GitHub\pRobust\pRobust - Copy\bin\Debug\d0.pdb
+C:\Users\dorat\Documents\GitHub\pRobust\pRobust - Copy\bin\Debug\Accord.dll
+C:\Users\dorat\Documents\GitHub\pRobust\pRobust - Copy\bin\Debug\Accord.Math.Core.dll
+C:\Users\dorat\Documents\GitHub\pRobust\pRobust - Copy\bin\Debug\Accord.Math.dll
+C:\Users\dorat\Documents\GitHub\pRobust\pRobust - Copy\bin\Debug\Accord.Statistics.dll
+C:\Users\dorat\Documents\GitHub\pRobust\pRobust - Copy\bin\Debug\MongoDB.Bson.dll
+C:\Users\dorat\Documents\GitHub\pRobust\pRobust - Copy\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\dorat\Documents\GitHub\pRobust\pRobust - Copy\bin\Debug\MongoDB.Driver.dll
+C:\Users\dorat\Documents\GitHub\pRobust\pRobust - Copy\bin\Debug\Accord.xml
+C:\Users\dorat\Documents\GitHub\pRobust\pRobust - Copy\bin\Debug\Accord.Math.xml
+C:\Users\dorat\Documents\GitHub\pRobust\pRobust - Copy\bin\Debug\Accord.Math.Core.xml
+C:\Users\dorat\Documents\GitHub\pRobust\pRobust - Copy\bin\Debug\Accord.Statistics.xml
+C:\Users\dorat\Documents\GitHub\pRobust\pRobust - Copy\bin\Debug\MongoDB.Bson.xml
+C:\Users\dorat\Documents\GitHub\pRobust\pRobust - Copy\bin\Debug\MongoDB.Driver.xml
+C:\Users\dorat\Documents\GitHub\pRobust\pRobust - Copy\obj\Debug\CPF-experiment.csprojAssemblyReference.cache
+C:\Users\dorat\Documents\GitHub\pRobust\pRobust - Copy\obj\Debug\CPF_experiment.Properties.Resources.resources
+C:\Users\dorat\Documents\GitHub\pRobust\pRobust - Copy\obj\Debug\CPF-experiment.csproj.GenerateResource.cache
+C:\Users\dorat\Documents\GitHub\pRobust\pRobust - Copy\obj\Debug\CPF-experiment.csproj.CoreCompileInputs.cache
+C:\Users\dorat\Documents\GitHub\pRobust\pRobust - Copy\obj\Debug\CPF-experiment.csproj.CopyComplete
+C:\Users\dorat\Documents\GitHub\pRobust\pRobust - Copy\obj\Debug\d0.exe
+C:\Users\dorat\Documents\GitHub\pRobust\pRobust - Copy\obj\Debug\d0.pdb
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust\bin\Debug\Accord.dll.config
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust\bin\Debug\d0.exe.config
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust\bin\Debug\d0.xml
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust\bin\Debug\d0.exe
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust\bin\Debug\d0.pdb
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust\bin\Debug\Accord.dll
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust\bin\Debug\Accord.Math.Core.dll
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust\bin\Debug\Accord.Math.dll
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust\bin\Debug\Accord.Statistics.dll
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust\bin\Debug\MongoDB.Bson.dll
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust\bin\Debug\MongoDB.Driver.dll
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust\bin\Debug\Accord.xml
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust\bin\Debug\Accord.Math.xml
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust\bin\Debug\Accord.Math.Core.xml
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust\bin\Debug\Accord.Statistics.xml
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust\bin\Debug\MongoDB.Bson.xml
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust\bin\Debug\MongoDB.Driver.xml
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust\obj\Debug\CPF-experiment.csprojAssemblyReference.cache
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust\obj\Debug\CPF_experiment.Properties.Resources.resources
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust\obj\Debug\CPF-experiment.csproj.GenerateResource.cache
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust\obj\Debug\CPF-experiment.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust\obj\Debug\CPF-experiment.csproj.CopyComplete
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust\obj\Debug\d0.exe
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust\obj\Debug\d0.pdb
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust_det\bin\Debug\Accord.dll.config
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust_det\bin\Debug\d0.exe.config
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust_det\bin\Debug\d0.xml
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust_det\bin\Debug\d0.exe
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust_det\bin\Debug\d0.pdb
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust_det\bin\Debug\Accord.dll
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust_det\bin\Debug\Accord.Math.Core.dll
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust_det\bin\Debug\Accord.Math.dll
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust_det\bin\Debug\Accord.Statistics.dll
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust_det\bin\Debug\MongoDB.Bson.dll
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust_det\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust_det\bin\Debug\MongoDB.Driver.dll
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust_det\bin\Debug\Accord.xml
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust_det\bin\Debug\Accord.Math.xml
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust_det\bin\Debug\Accord.Math.Core.xml
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust_det\bin\Debug\Accord.Statistics.xml
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust_det\bin\Debug\MongoDB.Bson.xml
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust_det\bin\Debug\MongoDB.Driver.xml
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust_det\obj\Debug\CPF-experiment.csprojAssemblyReference.cache
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust_det\obj\Debug\CPF_experiment.Properties.Resources.resources
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust_det\obj\Debug\CPF-experiment.csproj.GenerateResource.cache
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust_det\obj\Debug\CPF-experiment.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust_det\obj\Debug\CPF-experiment.csproj.CopyComplete
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust_det\obj\Debug\d0.exe
+C:\Users\USER\Documents\GitHub\pRobust_new\pRobust_det\obj\Debug\d0.pdb
